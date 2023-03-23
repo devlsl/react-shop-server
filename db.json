@@ -1,5 +1,19 @@
 {
-  "users": [],
+  "users": [
+    {
+      "phone": "0",
+      "password": "0",
+      "cart": [
+        {
+          "id": "1",
+          "qty": 1
+        }
+      ],
+      "favorites": [],
+      "orders": [],
+      "id": 1
+    }
+  ],
   "items": [
     {
       "id": "0",
