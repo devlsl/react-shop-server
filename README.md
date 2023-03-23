@@ -1,6 +1,6 @@
-# react-shop-app
+# react-shop-server
 
-This is an app (pet project) written in Node.js using json server.
+This is an server written in Node.js using json server.
 This repository is a back end. If you want to try playing with this, follow the manual.
 
 ## manual
